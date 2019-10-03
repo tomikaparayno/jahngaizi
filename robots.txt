@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aefeluisee.relocista.com/sitemap.xml
